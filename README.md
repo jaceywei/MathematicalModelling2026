@@ -4,3 +4,5 @@
 任课教师：陈仁杰
 
 课程仓库：https://github.com/TheVaticanCameos/USTC_MM_26
+
+大作业仓库：https://github.com/KevinDb123/USTCMM
